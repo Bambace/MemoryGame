@@ -1,3 +1,7 @@
+# MemoryGame
+
+
+
 ## Descripción
 
 Este proyecto es un juego de memoria en el que el usuario debe encontrar pares de cartas iguales. Cuando un par es encontrado, las cartas correspondientes se oscurecen y ya no son interactivas. El juego termina cuando todos los pares son descubiertos.
@@ -34,4 +38,4 @@ Si no coinciden, se voltean nuevamente.
 
 Encuentra todos los pares para ganar.
 
-# MemoryGame
+
